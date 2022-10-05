@@ -1,0 +1,15 @@
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.exe
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.deps.json
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.runtimeconfig.json
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.dll
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.pdb
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.csproj.AssemblyReference.cache
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.AssemblyInfoInputs.cache
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.AssemblyInfo.cs
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.csproj.CoreCompileInputs.cache
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.dll
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\refint\UnicornRescueSociety.dll
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.pdb
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.genruntimeconfig.cache
+C:\Users\Mihiri\Documents\C++\UnicornRescueSociety\obj\Debug\net6.0\ref\UnicornRescueSociety.dll
